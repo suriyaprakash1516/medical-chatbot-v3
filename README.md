@@ -1,3 +1,15 @@
+---
+title: MediAssist Medical Chatbot
+emoji: 🏥
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: "1.35.0"
+python_version: "3.10"
+app_file: app.py
+pinned: false
+---
+
 # 🏥 MediAssist — Multilingual Medical Support Chatbot
 
 > **GUVI | HCL Final Project** — AI-powered multilingual medical guidance chatbot  
